@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://makemoney-29a68.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">228160870997</string>
+  <string name="google_storage_bucket" translatable="false">makemoney-29a68.appspot.com</string>
+  <string name="project_id" translatable="false">makemoney-29a68</string>
+  <string name="google_api_key" translatable="false">AIzaSyBYnR7fYDdMB2WAYoWKamBKgecYEHfvS74</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBYnR7fYDdMB2WAYoWKamBKgecYEHfvS74</string>
+  <string name="google_app_id" translatable="false">1:228160870997:android:4cc3bf3b073c620d</string>
+  <string name="default_web_client_id" translatable="false">228160870997-v0hegtir7df7hn7nff142o1rdl9uegla.apps.googleusercontent.com</string>
+</resources>

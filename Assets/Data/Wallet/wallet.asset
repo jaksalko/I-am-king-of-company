@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34112d833a487014a9943eb5f8542ced, type: 3}
+  m_Name: wallet
+  m_EditorClassIdentifier: 
+  stocklist:
+  - {fileID: 11400000, guid: 6b5799921c6bbf24b94c37f0359074a2, type: 2}
+  - {fileID: 11400000, guid: 3b1ad82c0878f9148a61df163cd529d5, type: 2}
+  - {fileID: 11400000, guid: 67d7791464cedba48b358a6907ec0cca, type: 2}
+  - {fileID: 11400000, guid: 1b0edca764a1bdd4ca233ab4c843cf72, type: 2}
+  - {fileID: 11400000, guid: 629b263944ba4bd4a858610b225c1b85, type: 2}
+  - {fileID: 11400000, guid: 43b3b9ee35f22b747a3ec25dd75d1c72, type: 2}
+  - {fileID: 11400000, guid: 51da4f62d1fc48a4198e8f71daf0c4d8, type: 2}
+  - {fileID: 11400000, guid: 659fe4ea348ab1f4c8e2472e518739a5, type: 2}
+  - {fileID: 11400000, guid: d4c790503f4140e489e8282124d03093, type: 2}
+  - {fileID: 11400000, guid: 4cf003ffd89c13b48aafc7613f07ae41, type: 2}
+  - {fileID: 11400000, guid: d6b549c11b4e553409b2937268553e83, type: 2}
+  - {fileID: 11400000, guid: a991e6a9ebdc5de4d8e4f7a13c9cd806, type: 2}
+  - {fileID: 11400000, guid: 70b4ebefc7773f74197015574a45d7f1, type: 2}
+  - {fileID: 11400000, guid: f8751320dd7deff498c779cd23725e12, type: 2}
+  - {fileID: 11400000, guid: 36262724cc64f0541aa9acbc1e661aa8, type: 2}
+  have: 
+  cash: 0
+  stockProperty: 0
+  totalProperty: 0
+  dailyItemList:
+  - {fileID: 11400000, guid: 0ffd3b4a4ded6374984754dae7afdeec, type: 2}
+  - {fileID: 11400000, guid: d954d4dffedbd4841a1ca6deb0440047, type: 2}
+  - {fileID: 11400000, guid: 2d1fbe1685676a047bdb278799f69edb, type: 2}
+  - {fileID: 11400000, guid: 321a67bd73a0f34488c68568002ed115, type: 2}
+  - {fileID: 11400000, guid: ae1ca395368c5524990bfc980ee01405, type: 2}
