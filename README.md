@@ -1,7 +1,7 @@
 # I-am-king-of-company
 ## :crown:나는 회사왕:crown:
 
-### Play on Google Play Store(https://github.com/jaksalko/I-am-king-of-company) ..준비중입니다
+### Play on Google Play Store  (https://github.com/jaksalko/I-am-king-of-company) ..준비중입니다
 <img src="https://user-images.githubusercontent.com/11826453/73425181-2db00880-4374-11ea-8369-8e747cb71d38.jpg" width="30%" height="30%">
 
 
