@@ -2,7 +2,7 @@
 ## :crown:나는 회사왕:crown:
 
 ### Play on Google Play Store(https://github.com/jaksalko/I-am-king-of-company) ..준비중입니다
-
+<img src="https://user-images.githubusercontent.com/11826453/73424585-95fdea80-4372-11ea-83bf-131bed562289.jpg" width="40%" height="40%">
 ### 1. 게임소개
 
   #### 인턴부터 사장까지! 
