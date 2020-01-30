@@ -17,7 +17,7 @@
   
     **업무**는 게임의 주 컨텐츠입니다. 승진을 할수록 어려워지는 업무들을 모두 해결하고 **사장의 자리**까지!!
     
-    <img src="https://user-images.githubusercontent.com/11826453/73426987-1889a880-4379-11ea-9e87-ae703c949199.jpg" width="20%" height="20%">
+    <img src="https://user-images.githubusercontent.com/11826453/73427293-ce54f700-4379-11ea-9448-53bb58de64d4.jpg" width="20%" height="20%">
   * ##### 주식
     
     **주식**을 사고팔아 재산을 빠르게 늘려보세요!
