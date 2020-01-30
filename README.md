@@ -3,6 +3,8 @@
 
 ### Play on Google Play Store(https://github.com/jaksalko/I-am-king-of-company) ..준비중입니다
 <img src="https://user-images.githubusercontent.com/11826453/73425181-2db00880-4374-11ea-8369-8e747cb71d38.jpg" width="40%" height="40%">
+
+
 ### 1. 게임소개
 
   #### 인턴부터 사장까지! 
